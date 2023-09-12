@@ -1,0 +1,61 @@
+body.dark-theme {
+  background-color: #282c34;
+}
+
+.dark-theme nav.navbar {
+  background-color: black !important;
+}
+
+.dark-theme nav.navbar li a,
+.dark-theme nav.navbar li a.active {
+  color: #fff;
+}
+
+.dark-theme h2,
+.dark-theme p {
+  color: #fff;
+}
+
+.dark-theme textarea {
+  background-color: #282c34;
+  color: #61dafb
+}
+
+.dark-theme .form-control:focus {
+  background-color: #282c34;
+  color: #fff;
+}
+
+.dark-theme #btns button {
+  background-color: #000;
+  border: 1px solid black
+}
+
+.dark-theme #btns button:hover {
+  opacity: .5;
+}
+.dark-theme .card {
+  background-color: #000;
+}
+
+.dark-theme .card .card-title {
+  color: #fff;
+}
+
+.dark-theme .card a.btn {
+  background-color: #282c34;
+  border: 1px solid #282c34
+}
+
+.dark-theme .card a.btn:hover {
+  opacity: .5;
+}
+.dark-theme  .navbar .nav-link.active::before {
+  background: #fff none repeat;
+}
+.dark-theme .nav {
+  background:#000;
+}
+.dark-theme .nav .nav-link{
+  color: #fff;
+}
